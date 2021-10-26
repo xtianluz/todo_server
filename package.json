@@ -13,7 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "apollo-server": "^3.4.0",
-    "graphql": "^15.6.1"
-    
+    "dotenv": "^10.0.0",
+    "graphql": "^15.6.1",
+    "mongodb": "^4.1.3"
   }
 }
